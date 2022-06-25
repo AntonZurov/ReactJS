@@ -1,0 +1,29 @@
+.active {
+    color: gold;
+    text-decoration: none;
+
+}
+.nonactive {
+    color: aliceblue;
+    text-decoration: none;
+}
+.active img{
+    padding:4px;
+    width: 30px;
+    height:30px;
+    border-radius:30px;
+    background-color: gold;
+}
+.nonactive img {
+    padding: 4px;
+    width: 30px;
+    height:30px;
+    border-radius:30px;
+    background-color: white;
+    }
+.dialog
+{
+    grid-area: n;
+
+
+}

@@ -1,0 +1,13 @@
+
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.friendsItems {
+    padding: 10px;
+color: whitesmoke;
+}
+.friendsItems .active{
+color: gold;
+}

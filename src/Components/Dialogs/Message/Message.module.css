@@ -1,0 +1,17 @@
+
+.message{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    color: whitesmoke;
+}
+message img{
+
+}
+
+.messagesItems {
+    padding: 10px;
+color: whitesmoke;
+}
+.messagesItems .active{
+color: gold;
+}

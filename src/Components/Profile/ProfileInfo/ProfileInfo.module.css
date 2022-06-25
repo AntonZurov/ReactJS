@@ -1,0 +1,12 @@
+.descriptionBlock{
+    align-items: center;
+    padding:10px;
+    width:200px;
+    border-radius: 100px;
+}
+.descriptionBlock img {
+    padding:2px;
+    width: 200px;
+    border-radius: 100px;
+    background-color:white;
+}
